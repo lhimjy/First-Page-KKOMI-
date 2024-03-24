@@ -1,19 +1,16 @@
-div {
-  margin: 36px;
-  height: 300px;
-  width: 100px;
+html {
+  background-color : rgba(65, 194, 198, 0.201);
+}
+
+span {
+  margin: 25px;
   padding: 20px;
   border-radius: 24px;
   background-color: white;
   box-shadow: 4px 6px black;
-  text-align: center;
+  display :inline-block;
 }
-
-.relative1 {
-  display : inline;
-}
-.relative2 {
-  display : inline;
+p{
   text-align: center;
 }
 
@@ -23,4 +20,5 @@ h4 {
   font-weight: bold;
   font-size: 200%;
   color :burlywood;
+  text-shadow: 2px -2px 2px #b8b8b8;
 }
