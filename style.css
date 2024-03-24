@@ -1,0 +1,26 @@
+div {
+  margin: 36px;
+  height: 300px;
+  width: 100px;
+  padding: 20px;
+  border-radius: 24px;
+  background-color: white;
+  box-shadow: 4px 6px black;
+  text-align: center;
+}
+
+.relative1 {
+  display : inline;
+}
+.relative2 {
+  display : inline;
+  text-align: center;
+}
+
+h4 {
+  font-family: Georgia, serif;
+  font-style: oblique;
+  font-weight: bold;
+  font-size: 200%;
+  color :burlywood;
+}
